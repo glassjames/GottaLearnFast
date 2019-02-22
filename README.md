@@ -1,6 +1,6 @@
 # GottaLearnFast
 
-A reinforcement trained agent that can complete Sonic The Hedgehog™ for the SEGA Genesis. Built with Python, NEAT-Python, and OpenAI Gym Retro.
+A reinforcement trained agent tasked with completing Sonic The Hedgehog™ for the SEGA Genesis. Built with Python, NEAT-Python, and OpenAI Gym Retro.
 
 ![](GottaLearnFastClip.gif)
 
