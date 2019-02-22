@@ -2,7 +2,7 @@
 
 A reinforcement trained agent that can complete Sonic The Hedgehog™ for the SEGA Genesis. Built with Python, NEAT-Python, and OpenAI Gym Retro.
 
-![](GottaLearnFast.gif)
+![](GottaLearnFastClip.gif)
 
 ## Getting Started
 
